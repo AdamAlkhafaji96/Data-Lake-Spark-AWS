@@ -6,8 +6,8 @@ This pipeline extracts their data from S3, processes them using Spark, deploy th
 
 # Datasets: 
 Their data resides in S3, in a directory of JSON logs on user activity on the app, as well as a directory with JSON metadata on the songs in their app.
-    Song data: s3://udacity-dend/song_data
-    Log data: s3://udacity-dend/log_data
+   - Song data: s3://udacity-dend/song_data
+   - Log data: s3://udacity-dend/log_data
 
 Song dataset is a subset of the Million Song Dataset.
 Log datasets have been created by this event simulator.
