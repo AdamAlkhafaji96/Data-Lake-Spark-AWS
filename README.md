@@ -16,7 +16,6 @@ Log datasets have been created by this event simulator.
     etl.py --- reads data from S3, processes that data using Spark, and writes them back to S3
     dl.cfg --- contains your AWS credentials
     README.md --- provides discussion on your process and decisions
-analysis --- [Optional] Provide example queries and results for song play analysis.
     
 # Project Requirements
     Spark
